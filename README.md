@@ -8,18 +8,18 @@ As a job seeker, I’ve always been surprised by the lack of data exploring the 
 Questions to Analyze
 To understand the data science job market, I asked the following:
 
-Do more skills get you better pay?
-What’s the salary for data jobs in different regions?
-What are the top skills of data professionals?
-What’s the pay for the top 10 skills?
-Excel Skills Used
-The following Excel skills were utilized for analysis:
+-Do more skills get you better pay?
+-What’s the salary for data jobs in different regions?
+-What are the top skills of data professionals?
+-What’s the pay for the top 10 skills?
+-Excel Skills Used
+-The following Excel skills were utilized for analysis:
 
-📊 Pivot Tables
-📈 Pivot Charts
-🧮 DAX (Data Analysis Expressions)
-🔍 Power Query
-💪 Power Pivot
+-📊 Pivot Tables
+-📈 Pivot Charts
+-🧮 DAX (Data Analysis Expressions)
+-🔍 Power Query
+-💪 Power Pivot
 Data Jobs Dataset
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel.
 
